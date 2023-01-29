@@ -16,13 +16,12 @@
 
 <table>
     <tr>
-      Проект
-        <td></td>
+        <td>Проект</td>
         <td></td>
         <td></td>
     </tr> 
     <tr>
-        <td></td>
+        <td>Краткое описание</td>
         <td></td>
         <td></td>
     </tr>

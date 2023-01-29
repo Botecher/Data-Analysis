@@ -12,11 +12,11 @@
 
 Список предоставленных файлов
 
-acquisitions.csv
-degrees.csv
-funding_rounds.csv
-funds.csv
-investments.csv
-objects.csv
-raw_fund.txt
-raw_people.csv
+- acquisitions.csv
+- degrees.csv
+- funding_rounds.csv
+- funds.csv
+- investments.csv
+- objects.csv
+- raw_fund.txt
+- raw_people.csv

@@ -17,12 +17,12 @@
 <table>
     <tr>
         <td>Проект</td>
-        <td></td>
-        <td></td>
+        <td>Краткое описание</td>
+        <td>Библиотеки</td>
     </tr> 
     <tr>
-        <td>Краткое описание</td>
         <td></td>
+        <td><a href="https://github.com/RItechh/project_data_analysis/tree/main/analysis_real_estate">Анализ данных рынка недвижимости</a></td>
         <td></td>
     </tr>
     <tr>

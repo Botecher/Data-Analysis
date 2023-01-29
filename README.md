@@ -21,17 +21,17 @@
         <td>Библиотеки</td>
     </tr> 
     <tr>
+        <td><a href="https://github.com/RItechh/project_data_analysis/tree/main/analysis_film_distribution">Анализ рынка кинопроката</a></td>
         <td></td>
+        <td></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/RItechh/project_data_analysis/tree/main/analysis_real_estate">Анализ данных рынка недвижимости</a></td>
         <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td><a href="https://github.com/RItechh/project_data_analysis/tree/main/data_wrangling_and_bilding_bd">Обработка и создание таблиц в базе данных</a></td>
         <td></td>
         <td></td>
     </tr>

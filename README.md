@@ -11,4 +11,4 @@
   
 </div>
 
-Все прокты в этом репозитории выполнены в Jupiter notebook, с использование таких технологий как: Python, pandas, numpy, sql, matplotlib, seaborn.
+Все проекты в этом репозитории выполнены в Jupiter notebook, с использованием таких технологий как: Python, pandas, numpy, sql, matplotlib, seaborn.

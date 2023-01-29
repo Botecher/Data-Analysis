@@ -13,14 +13,6 @@
 
 Все проекты в этом репозитории выполнены в Jupiter notebook, с использованием таких технологий как: Python, pandas, numpy, sql, matplotlib, seaborn.
 
-|Проект                                           | Краткое описание                                                     |  Библиотеки                                  | 
-|-------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------|
-|                                               |                   |             |  
-|       |                   |             |
-
-
-
-
 
 <table>
     <tr>
@@ -34,7 +26,7 @@
         <td></td>
         <td></td>
         <td></td>
-    </tr>
+    </tr>  
     <tr>
         <td></td>
         <td></td>
@@ -59,88 +51,5 @@
         <td></td>
         <td></td>
     </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
+   
 </table>

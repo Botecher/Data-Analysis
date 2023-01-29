@@ -7,11 +7,8 @@
 
 <div  align="center">
   
-
+# Добро пожаловать :raised_hand_with_fingers_splayed: 
   
 </div>
-
-# Добро пожаловать :raised_hand_with_fingers_splayed: 
-
 ---
 Все прокты в этом репозитории выполнены в Jupiter notebook, с использование таких технологий как: Python, pandas, numpy, sql, matplotlib, seaborn.

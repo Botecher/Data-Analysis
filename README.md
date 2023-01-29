@@ -2,7 +2,7 @@
   
   # Project Data Analysis
   
-  <img src="https://www.publicdomainpictures.net/pictures/270000/velka/data-information-analysis-big-d.jpg"/>
+  <img src="https://www.publicdomainpictures.net/pictures/270000/velka/data-information-analysis-big-d.jpg" width="500" height="500"/>
 </div>
 
 <div  align="center">
